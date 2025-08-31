@@ -136,9 +136,10 @@ async def imprimir_bloque(bloque: dict):
     """
     print("📥 Recibido bloque:", bloque)
 
-    # Simula tiempo de impresión
+    # Simula tiempo de impresiónhhhh
     time.sleep(5)
 
     return {"status": "ok", "mensaje": "Bloque impreso correctamente"}
 
 ###no moeleses
+#otra voz
